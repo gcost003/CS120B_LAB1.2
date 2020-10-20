@@ -1,0 +1,10 @@
+$timescale 10ns $end
+$scope module logic $end
+$var wire 8 ! PINA $end
+$var wire 1 " PINA0 $end
+$upscope $end
+$enddefinitions $end
+$dumpvars
+bxxxxxxxx !
+x"
+$end
